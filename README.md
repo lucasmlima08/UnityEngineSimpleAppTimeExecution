@@ -6,6 +6,6 @@ Simples aplicação para cálculo do tempo de execução do código (loop) em mi
 
 - Engine Unity 5
 
-# Image
+# Imagem
 
 <img src="https://github.com/lucasmlima08/UnityEngineSimpleAppTimeExecution/blob/master/img.png" width="240" />
